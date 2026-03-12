@@ -1,6 +1,6 @@
 # System Design Interview Prep
 
-A comprehensive system design interview preparation platform targeting **Principal / Sr. Staff Engineer (L7/L8)** level candidates at companies like Stripe, FAANG, and Databricks.
+A comprehensive system design interview preparation platform targeting **Principal / Sr. Staff Engineer (L7/L8)** level candidates at companies like FAANG, Databricks etc.
 
 ## Overview
 
