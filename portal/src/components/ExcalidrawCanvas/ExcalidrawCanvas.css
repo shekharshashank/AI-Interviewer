@@ -1,0 +1,25 @@
+.excalidraw-container {
+  flex: 1;
+  min-height: 0;
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+
+.excalidraw-container .excalidraw {
+  height: 100% !important;
+  width: 100% !important;
+}
+
+.excalidraw-container .excalidraw .excalidraw-container {
+  height: 100% !important;
+}
+
+.canvas-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+}
